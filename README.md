@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dominika666
+- 👋 Hi, I’m Dominika.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning JavaScript and trying create my first repository.
 - 💞️ I’m looking to collaborate on Frontend.
