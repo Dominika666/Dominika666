@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dominika.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning JavaScript and trying create my first repository.
+- 🌱 I’m currently learning JavaScript and building responsive web site.
 - 💞️ I’m looking to collaborate on Frontend.
 - 📫 How to reach me? You can sand me a message. My e-mail adress: zajacowna666@gmail.com
 
