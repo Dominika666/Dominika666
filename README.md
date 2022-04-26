@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning JavaScript and building responsive web site.
 - 💞️ I’m looking to collaborate on Frontend.
-- 📫 How to reach me? You can sand me a message. My e-mail adress: zajacowna666@gmail.com
+- 📫 How to reach me? You can sand me a message. My e-mail adress: dominika.zajac13@gmail.com
 
 <!---
 Dominika666/Dominika666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
