@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Dominika.
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning JavaScript and building my first projects.
-- 💞️ I’m looking to collaborate on Frontend.
-- 📫 How to reach me? You can sand me a message. My e-mail adress: dominika.zajac13@gmail.com
+- Hi, I’m Dominika.
+- I’m interested in programming and I'd like to become a frontend developer.
+- Still learning and discovering new stuff.
+- I'm looking for an internship that will help me improve my skills.
+
 
 <!---
 Dominika666/Dominika666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
